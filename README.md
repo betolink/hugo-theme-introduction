@@ -179,6 +179,8 @@ See the [hugo documentation](https://gohugo.io/content-management/multilingual/)
 
 Introduction contains a default menu. If you want to override this, you can do so by defining a `menu.main` in `config.toml`.
 
+Optionally, you can disable this menu by setting `showMenu` to `false` in your `config.toml`.
+
 ## Contact section clock
 
 Introduction can optionally show your current local time in your [contact section](https://hugo-introduction.netlify.app/#contact). This uses vanilla JS and variables you provide. You can set this up by copying the settings in the exampleSite `config.toml` for `localTime`, `timeZone`, and `timeFormat`.
@@ -189,7 +191,7 @@ You can easily use Plausible.io for analytics by setting `plausible = true` in y
 
 ## Google Analytics
 
-Set `googleAnalytics` in `config.toml` to activate Hugo's [internal Google Analytics template](https://gohugo.io/templates/internal/#google-analytics).
+Set `googleAnalytics` in `config.toml` to activate Hugo's [internal Google Analytics template](https://gohugo.io/templates/internal/#google-analytics). This supports both Google Analytics 3 (Universal Analytics) and Google Analytics 4. Google Analytics 3 tracking id is of the form 'UA-PROPERTY_ID', and Google Analytics 4 tracking is of the form 'G-MEASUREMENT_ID'.
 
 ## Disqus
 
@@ -215,7 +217,7 @@ This theme would not be nearly as awesome without its amazing community of open 
 
 ## License
 
-Copyright (C) 2017-2022 [Victoria Drake](https://victoria.dev/)
+Copyright (C) 2017-2023 [Victoria Drake](https://victoria.dev/)
 
 Licensed under the [Apache License, Version 2.0](https://github.com/victoriadrake/hugo-theme-introduction/blob/master/LICENSE) (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
