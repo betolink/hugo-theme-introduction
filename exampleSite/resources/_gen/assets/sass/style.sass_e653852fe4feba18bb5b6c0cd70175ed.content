@@ -10431,7 +10431,7 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("../fonts/fontawesome-free/webfonts//fa-brands-400.woff2") format("woff2"), url("../fonts/fontawesome-free/webfonts//fa-brands-400.ttf") format("truetype"); }
+  src: url("../fonts/fontawesome-free/webfonts/fa-brands-400.woff2") format("woff2"), url("../fonts/fontawesome-free/webfonts/fa-brands-400.ttf") format("truetype"); }
 
 .fab,
 .fa-brands {
@@ -11954,7 +11954,7 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url("../fonts/fontawesome-free/webfonts//fa-solid-900.woff2") format("woff2"), url("../fonts/fontawesome-free/webfonts//fa-solid-900.ttf") format("truetype"); }
+  src: url("../fonts/fontawesome-free/webfonts/fa-solid-900.woff2") format("woff2"), url("../fonts/fontawesome-free/webfonts/fa-solid-900.ttf") format("truetype"); }
 
 .fas,
 .fa-solid {
@@ -21545,7 +21545,7 @@ readers do not read off random characters that represent icons */
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url("../fonts/fontawesome-free/webfonts//fa-brands-400.woff2") format("woff2"), url("../fonts/fontawesome-free/webfonts//fa-brands-400.ttf") format("truetype"); }
+    src: url("../fonts/fontawesome-free/webfonts/fa-brands-400.woff2") format("woff2"), url("../fonts/fontawesome-free/webfonts/fa-brands-400.ttf") format("truetype"); }
   .fab,
   .fa-brands {
     font-weight: 400; }
@@ -22564,7 +22564,7 @@ readers do not read off random characters that represent icons */
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url("../fonts/fontawesome-free/webfonts//fa-solid-900.woff2") format("woff2"), url("../fonts/fontawesome-free/webfonts//fa-solid-900.ttf") format("truetype"); }
+    src: url("../fonts/fontawesome-free/webfonts/fa-solid-900.woff2") format("woff2"), url("../fonts/fontawesome-free/webfonts/fa-solid-900.ttf") format("truetype"); }
   .fas,
   .fa-solid {
     font-weight: 900; }
